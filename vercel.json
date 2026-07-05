@@ -1,0 +1,25 @@
+{
+  "crons": [
+    {
+      "path": "/api/reminder/morning",
+      "schedule": "0 1 * * *"
+    },
+    {
+      "path": "/api/reminder/lunch",
+      "schedule": "0 5 * * *"
+    },
+    {
+      "path": "/api/reminder/water",
+      "schedule": "30 8 * * *"
+    },
+    {
+      "path": "/api/reminder/dinner",
+      "schedule": "0 12 * * *"
+    },
+    {
+      "path": "/api/reminder/night",
+      "schedule": "0 15 * * *"
+    }
+  ]
+}
+
