@@ -1,0 +1,9 @@
+{
+  "name": "Kirana Care OS",
+  "short_name": "Care OS",
+  "description": "A soft little operating system whose only job is to take care of Kirana.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF6EF",
+  "theme_color": "#F8DCE1"
+}
